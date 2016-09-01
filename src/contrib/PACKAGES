@@ -1,0 +1,9 @@
+Package: essexBigdata
+Version: 0.1.0
+Depends: R (>= 3.0.0)
+Imports: ggplot2 (>= 2.1.0), HSAUR2, clue
+Suggests: knitr, rmarkdown
+License: GPL-2 | GPL-3
+MD5sum: 161d4b7fd7666d5187ff68752b696ca5
+NeedsCompilation: no
+
