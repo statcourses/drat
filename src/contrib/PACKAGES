@@ -1,9 +1,10 @@
 Package: essexBigdata
 Version: 0.1.0
 Depends: R (>= 3.0.0)
-Imports: ggplot2 (>= 2.1.0), HSAUR2, clue
+Imports: ggplot2 (>= 2.1.0), HSAUR2, clue, ISLR, MASS, ipred, tree,
+        randomForest
 Suggests: knitr, rmarkdown
 License: GPL-2 | GPL-3
-MD5sum: 161d4b7fd7666d5187ff68752b696ca5
+MD5sum: 5c8d07bcf53775a25087919ff75d7123
 NeedsCompilation: no
 
