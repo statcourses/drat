@@ -5,6 +5,6 @@ Imports: ggplot2 (>= 2.1.0), HSAUR2, clue, ISLR, MASS, ipred, tree,
         randomForest
 Suggests: knitr, rmarkdown
 License: GPL-2 | GPL-3
-MD5sum: a8ef8695e73e1d177282fbc85390f3b7
+MD5sum: c5c0ee9fbdbe031b2fb05ccff26b02fc
 NeedsCompilation: no
 
