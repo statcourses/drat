@@ -1,10 +1,10 @@
 Package: BristolVis
 Version: 0.1.0
 Depends: R (>= 3.0.3)
-Imports: ggplot2 (>= 2.1.0), reshape2, ggplot2movies
-Suggests: knitr
+Imports: ggplot2 (>= 2.1.0), reshape2, ggplot2movies, hexbin
+Suggests: knitr, rmarkdown
 License: GPL-2 | GPL-3
-MD5sum: 3b86c9fe7e624649ec88170606b8ec87
+MD5sum: 33219eea5503eb172d146a6e1a9a1d13
 NeedsCompilation: no
 
 Package: essexBigdata
