@@ -4,7 +4,7 @@ Depends: R (>= 3.0.3)
 Imports: ggplot2 (>= 2.1.0), reshape2, ggplot2movies, hexbin
 Suggests: knitr, rmarkdown
 License: GPL-2 | GPL-3
-MD5sum: 26980d4df3fc4d43a8a8cd63634832d7
+MD5sum: a30f7263da341d58dc07705b2d37d702
 NeedsCompilation: no
 
 Package: essexBigdata
