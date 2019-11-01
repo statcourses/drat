@@ -5,7 +5,7 @@ Imports: ggplot2 (>= 2.1.0), reshape2, ggthemes, ggplot2movies, hexbin,
         plotly, htmlwidgets, ggcorrplot, shiny
 Suggests: knitr, rmarkdown
 License: GPL-2 | GPL-3
-MD5sum: d4726cbf4c6273bff393ee9880a9de7b
+MD5sum: 5894e744ea02d61b30dfa05df63ef773
 NeedsCompilation: no
 
 Package: essexBigdata
