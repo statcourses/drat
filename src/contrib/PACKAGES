@@ -27,6 +27,16 @@ License: GPL-2 | GPL-3
 MD5sum: 7584c1bf7166b387f553eadbd8595cb9
 NeedsCompilation: no
 
+Package: dsEssex
+Version: 0.2.3
+Depends: R (>= 3.5.0)
+Imports: dslabs, dplyr, stringr, ggplot2, tidytext, textdata, english,
+        tidyr, jsonlite, lubridate, scales
+Suggests: knitr (>= 1.12), rmarkdown (>= 0.9)
+License: GPL-2 | GPL-3
+MD5sum: 1ca240268e679781805da6093a73eef5
+NeedsCompilation: no
+
 Package: essexBigdata
 Version: 0.1.0
 Depends: R (>= 3.0.0)
