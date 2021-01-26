@@ -1,4 +1,13 @@
 Package: BristolVis
+Version: 0.1.0
+Depends: R (>= 3.0.3)
+Imports: ggplot2 (>= 2.1.0), reshape2, ggplot2movies, hexbin
+Suggests: knitr, rmarkdown
+License: GPL-2 | GPL-3
+MD5sum: cae20c64ca91f327d3d7b9046c2d491d
+NeedsCompilation: no
+
+Package: BristolVis
 Version: 0.2.0
 Depends: R (>= 3.0.3)
 Imports: ggplot2 (>= 2.1.0), reshape2, ggthemes, ggplot2movies, hexbin,
@@ -6,6 +15,26 @@ Imports: ggplot2 (>= 2.1.0), reshape2, ggthemes, ggplot2movies, hexbin,
 Suggests: knitr, rmarkdown
 License: GPL-2 | GPL-3
 MD5sum: d12fe7f813b1c17580028290d9913387
+NeedsCompilation: no
+
+Package: dsEssex
+Version: 0.1.1
+Depends: R (>= 3.5.0)
+Imports: dslabs, dplyr, stringr, ggplot2, tidytext, textdata, english,
+        tidyr, jsonlite, lubridate, scales
+Suggests: knitr (>= 1.12), rmarkdown (>= 0.9)
+License: GPL-2 | GPL-3
+MD5sum: bd5e4dc7d61747a9564f18d1d823b374
+NeedsCompilation: no
+
+Package: essexBigdata
+Version: 0.1.0
+Depends: R (>= 3.0.0)
+Imports: ggplot2 (>= 2.1.0), HSAUR2, clue, ISLR, MASS, ipred, tree,
+        randomForest
+Suggests: knitr, rmarkdown
+License: GPL-2 | GPL-3
+MD5sum: c5c0ee9fbdbe031b2fb05ccff26b02fc
 NeedsCompilation: no
 
 Package: essexBigdata
