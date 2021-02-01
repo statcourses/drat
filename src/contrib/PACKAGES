@@ -34,7 +34,7 @@ Imports: dslabs, dplyr, stringr, ggplot2, tidytext, textdata, english,
         tidyr, jsonlite, lubridate, scales
 Suggests: knitr (>= 1.12), rmarkdown (>= 0.9)
 License: GPL-2 | GPL-3
-MD5sum: 18942b2ce6da85b67b2e4d017ec08dbc
+MD5sum: 6295155d3f32874d372b3c1d0975c9e9
 NeedsCompilation: no
 
 Package: essexBigdata
